@@ -1,0 +1,86 @@
+body{
+    background-image: url('./papel.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hora{
+    display: flex;
+    color: darkmagenta;
+    justify-content: center;
+    align-items: center;
+    font-size: 5em;
+    font-style: oblique;
+
+}
+.foto{
+    display: block;
+    margin: auto;
+    width: 96px;
+    height: 96px;
+    background-image: url('./OIP.jpg');
+    background-size: cover;
+    border-radius: 50%;
+}
+.sociais{
+    margin: 35px 0;
+    text-align: center;
+    font-size: 5em;
+}
+.card{
+    margin: auto;
+    width: 18em;
+    height: 0em;
+    text-align: center;
+     color: pink;
+}
+.card-text{
+    margin:  0% 0;
+    text-align: center;
+    font-size: 2rem;
+    font-style: oblique;
+
+}
+.foto-angular{
+    margin: 2%;
+    width: 96px;
+    height: 96px;
+    background-image: url('./angular.ico');
+    background-size: cover;
+
+}
+.foto-b{
+    margin: 2%;
+    width: 200px;
+    height: 96px;
+    background-image: url('./back.ico');
+    background-size: cover;
+}
+.foto-b1{
+    margin: 2%;
+    width: 200px;
+    height: 96px;
+    background-image: url('./beck.ico');
+    background-size: cover;
+}
+.server{
+    margin: 2%;
+    width: 96px; 
+    height: 96px;
+    background-image: url('./database.ico');
+    background-size: cover;
+}
+.front{
+    margin: 2%;
+    width: 200px;
+    height: 96px;
+    background-image: url('./front.ico');
+    background-size: cover;
+}
+.front1{
+    margin: 2%;
+    width: 200px;
+    height: 96px;
+    background-image: url('./front_frmw.ico');
+    background-size: cover;
+}
